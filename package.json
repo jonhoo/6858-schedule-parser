@@ -1,0 +1,15 @@
+{
+  "version": "0.0.1",
+  "name": "6858-schedule-parser",
+  "description": "6.858 Computer Security schedule parser",
+  "author": "Jon Gjengset <jon@tsp.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonhoo/6858-schedule-parser.git"
+  },
+  "bin": "./serve-ics.js",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.42.0"
+  }
+}
